@@ -6,7 +6,7 @@
   - The text of the new task that user has entered
   - The value of the checkbox Show incompleted tasks only
 
-- Step 3 - Handling eventss
+- Step 3 - Handling events
 
   - Form submit for a new task
   - Change a stask's status
